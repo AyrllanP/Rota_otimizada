@@ -1,8 +1,8 @@
-# 📍 FlyFood - Otimizador de Rotas (Caixeiro Viajante)
+# FlyFood - Otimizador de Rotas (Caixeiro Viajante)
 
 O programa lê uma matriz a partir de um arquivo `.txt`, onde o `R` representa o ponto inicial (restaurante/origem) e as outras letras representam pontos de passagem obrigatórios (entregas). O algoritmo calcula a melhor rota possível passando por todas as letras e retornando ao ponto `R` com a menor distância total.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * **Python 3.11 / 3.12**
 * **Itertools** (Biblioteca nativa para geração das permutações de caminhos)
